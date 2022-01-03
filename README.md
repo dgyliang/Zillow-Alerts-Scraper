@@ -34,4 +34,4 @@ If you are using gmail, you will need to turn on unsafe apps access. Furthermore
 
 ## Running the code
 
-To run the code, run ```script.py``` after installing python and dependencies. You may run the code automatically by simply wrapping the script in a while loop, setting a cron job/scheduled task on your operating system, or using services such as heroku to run the script on the cloud.
+To run the code, run ```script.py``` after installing python and dependencies. You may run the code automatically by simply wrapping the script in a while loop, setting a cron job/scheduled task on your operating system, or using services such as heroku to run the script on the cloud (though if you want to do this you will also need to find a way to write data remotely or link a database because heroku does not store data).
