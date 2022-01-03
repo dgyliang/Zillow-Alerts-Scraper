@@ -1,6 +1,6 @@
 # Zillow-Alerts-Scraper
 
-A Zillow alerts scraper written in Python. Scrapes Zillow email alerts, then automatically writes data into a csv file. 
+A Zillow alerts scraper written in Python. Scrapes Zillow email alerts, then automatically writes data into a csv file. Useful for people looking for housing and want to compare listings.
 
 --- 
 Table of Contents
